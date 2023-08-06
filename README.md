@@ -3,19 +3,19 @@
   <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="800" height="550"/>
 </div>
 
-👋 I’m Tx711 (@Tarun Prasad)
+👋 I’m Sanat Prasad
 <br>
 👀 I’m interested in Web-Development/Python Development
 <br>
-🌱 I’m currently learning Scrapy(an open-source web-crawling framework written in Python)
+🌱 I’m currently learning AI/ML
 <br>
 🥂 I’m looking to collaborate on Python and Web-Dev based projects
 <br>
-📫 How to reach me: Email: tprasad1312@gmail.com 
+📫 How to reach me: Email: sanatprasad107@gmail.com 
 
 <p> Connect with me on! :
- <a href="https://www.linkedin.com/in/tarun-prasad-bb98b4209">
-  <img src="https://badgen.net/badge/LinkedIN/TarunPrasad/cyan" alt="LinkedIn Badge"/>
+ <a href="https://www.linkedin.com/in/sanatprasad/">
+  <img src="https://badgen.net/badge/LinkedIN/SanatPrasad/cyan" alt="LinkedIn Badge"/>
  </a>
  </p>
  
