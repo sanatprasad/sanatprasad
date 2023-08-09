@@ -9,7 +9,7 @@
 <br>
 🌱 I’m currently learning AI/ML
 <br>
-🥂 I’m looking to collaborate on Python and Web-Dev based projects
+🥂 I’m looking to collaborate on MERN STACK and Web-Dev based projects
 <br>
 📫 How to reach me: Email: sanatprasad107@gmail.com 
 
